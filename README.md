@@ -7,12 +7,12 @@
 ### how to get them
 
  - [x] consumer key and consumer secret
-    - [x] go to [developer portal](https://developer.safaricom.co.ke/user/me/apps)
+    - [x] go to [developer portal](https://developer.safaricom.co.ke/)
     - [x] create an app
     - [x] get consumer key and consumer secret
 
     - [x] passkey
-    - [x] go to [developer portal](https://developer.safaricom.co.ke/user/me/apps)
+    - [x] go to [developer portal](https://developer.safaricom.co.ke/)
     - [x] click on the api you want to use select Mpesa Express Sandbox
 
 ### how to use
@@ -31,7 +31,7 @@
                 "PartyA": "254708374149",
                 "PartyB": "174379",
                 "PhoneNumber": "254708374149",
-                "CallBackURL": "https://fullstackdevelopers.slack.com/",
+                "CallBackURL": "https://yourdomain.com/",
                 "AccountReference": "test",
                 "TransactionDesc": "test"
             }`
