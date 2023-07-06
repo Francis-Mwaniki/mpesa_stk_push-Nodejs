@@ -20,7 +20,7 @@
     - [x] cd into the repo
     - [x] run `npm install`
     - [x] run `npm start`
-    - [x] open your favourite testing tool and make a post request to `http://localhost:3000/api/v1/mpesa/stk/push`
+    - [x] open your favourite testing tool and make a post request to `http://localhost:3000/stkpush`
     - [x] pass the following in the body of the request if you wanna post to sandbox or you can use my function to push an stk push
     - [x] `{
                 "BusinessShortCode": "174379",
